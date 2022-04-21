@@ -1,0 +1,6 @@
+D:\.Kuliah Gunadarma - Semester 4\LEPKOM C# BEGINNER\FarhanHafizh_50420460\Pertemuan 2\Program\FarhanHafizh_50420460\FarhanHafizh_50420460\bin\Debug\FarhanHafizh_50420460.exe.config
+D:\.Kuliah Gunadarma - Semester 4\LEPKOM C# BEGINNER\FarhanHafizh_50420460\Pertemuan 2\Program\FarhanHafizh_50420460\FarhanHafizh_50420460\bin\Debug\FarhanHafizh_50420460.exe
+D:\.Kuliah Gunadarma - Semester 4\LEPKOM C# BEGINNER\FarhanHafizh_50420460\Pertemuan 2\Program\FarhanHafizh_50420460\FarhanHafizh_50420460\bin\Debug\FarhanHafizh_50420460.pdb
+D:\.Kuliah Gunadarma - Semester 4\LEPKOM C# BEGINNER\FarhanHafizh_50420460\Pertemuan 2\Program\FarhanHafizh_50420460\FarhanHafizh_50420460\obj\Debug\FarhanHafizh_50420460.csprojResolveAssemblyReference.cache
+D:\.Kuliah Gunadarma - Semester 4\LEPKOM C# BEGINNER\FarhanHafizh_50420460\Pertemuan 2\Program\FarhanHafizh_50420460\FarhanHafizh_50420460\obj\Debug\FarhanHafizh_50420460.exe
+D:\.Kuliah Gunadarma - Semester 4\LEPKOM C# BEGINNER\FarhanHafizh_50420460\Pertemuan 2\Program\FarhanHafizh_50420460\FarhanHafizh_50420460\obj\Debug\FarhanHafizh_50420460.pdb
