@@ -1,6 +1,0 @@
-D:\.Kuliah Gunadarma - Semester 4\LEPKOM C# BEGINNER\FarhanHafizh_50420460\Pertemuan 4\SIPenggajianMajuJaya\SIPenggajianMajuJaya\bin\Debug\SIPenggajianMajuJaya.exe.config
-D:\.Kuliah Gunadarma - Semester 4\LEPKOM C# BEGINNER\FarhanHafizh_50420460\Pertemuan 4\SIPenggajianMajuJaya\SIPenggajianMajuJaya\obj\Debug\SIPenggajianMajuJaya.csprojResolveAssemblyReference.cache
-D:\.Kuliah Gunadarma - Semester 4\LEPKOM C# BEGINNER\FarhanHafizh_50420460\Pertemuan 4\SIPenggajianMajuJaya\SIPenggajianMajuJaya\bin\Debug\SIPenggajianMajuJaya.exe
-D:\.Kuliah Gunadarma - Semester 4\LEPKOM C# BEGINNER\FarhanHafizh_50420460\Pertemuan 4\SIPenggajianMajuJaya\SIPenggajianMajuJaya\bin\Debug\SIPenggajianMajuJaya.pdb
-D:\.Kuliah Gunadarma - Semester 4\LEPKOM C# BEGINNER\FarhanHafizh_50420460\Pertemuan 4\SIPenggajianMajuJaya\SIPenggajianMajuJaya\obj\Debug\SIPenggajianMajuJaya.exe
-D:\.Kuliah Gunadarma - Semester 4\LEPKOM C# BEGINNER\FarhanHafizh_50420460\Pertemuan 4\SIPenggajianMajuJaya\SIPenggajianMajuJaya\obj\Debug\SIPenggajianMajuJaya.pdb
